@@ -1,3 +1,5 @@
+%define uname pyliblo3
+
 Name:		python-pyliblo3
 Version:	0.16.3
 Release:	1
